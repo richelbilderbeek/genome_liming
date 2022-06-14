@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+genome-linux-64bit
+genome-0.2-Linux
